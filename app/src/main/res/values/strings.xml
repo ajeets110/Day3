@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MenuAndSpinnerExample</string>
+    <string-array name="array_country">
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>USA</item>
+        <item>China</item>
+        <item>Russia</item>
+        <item>Sri Lanka</item>
+        <item>Mexico</item>
+        <item>Switzerland</item>
+        <item>Japan</item>
+    </string-array>
+</resources>
